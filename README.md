@@ -1,13 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ali S. Rizi</h1>
 <h3 align="center">A computer lover!</h3>
 
-- 🔭 I’m currently working on **Gnu/Linux.**
-
-- 🌱 I’m currently learning **Gnu/Linux, data structure, algorithm and digital design.**
-
-- 📫 How to reach me **asalehirizi@gmail.com, aleerizi1@gmail.com**
-
-- ⚡ Fun fact **I like FOSS world!**
+reach me **asalehirizi@gmail.com, aleerizi1@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
