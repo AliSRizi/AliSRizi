@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Ali S. Rizi</h1>
+<h1 align="center">Hi 👋, I'm Ali S. Rizzi</h1>
 <h3 align="center">A computer lover!</h3>
 
-reach me **asalehirizi@gmail.com, aleerizi1@gmail.com**
+reach me **rizzi.scne**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://stackoverflow.com/users/alisrizi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="alisrizi" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/alisrizzi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="alisrizi" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
