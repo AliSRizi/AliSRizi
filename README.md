@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Ali S. Rizzi</h1>
+<h1 align="center">Hi 👋, I'm Ali Rizzi</h1>
 <h3 align="center">A computer lover!</h3>
 
-reach me **rizzi.scne**
+reach me **rizzi.scne@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
